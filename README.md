@@ -28,9 +28,9 @@ We receive a random coding idea or theme (excluding games) and challenge ourselv
 
 Below is a list of all Coding Jam themes. Add each new theme as you go!
 
-| #  | Theme / Idea                           | Date       |
-|----|----------------------------------------|------------|
-| 1  | None                                   |            |
+| #  | Theme / Idea                           | Date       |Link    |
+|----|----------------------------------------|------------|--------|
+| 1  | None                                   |            |        |
 
 <!-- Add new themes in the table above as you continue Coding Jam! -->
 
