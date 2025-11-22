@@ -24,6 +24,16 @@ We receive a random coding idea or theme (excluding games) and challenge ourselv
 2. Each participant implements the idea using their language of choice.
 3. Share, review, and learn from each other's solutions.
 
+## Themes
+
+Below is a list of all Coding Jam themes. Add each new theme as you go!
+
+| #  | Theme / Idea                           | Date       |
+|----|----------------------------------------|------------|
+| 1  | None                                   |            |
+
+<!-- Add new themes in the table above as you continue Coding Jam! -->
+
 ## Participants
 
 - [LunexCorp](https://github.com/LunexCorp)
@@ -32,7 +42,3 @@ We receive a random coding idea or theme (excluding games) and challenge ourselv
 ## License
 
 This project is licensed under the MIT License.
-
----
-
-Enjoy coding!
