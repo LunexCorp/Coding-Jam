@@ -1,6 +1,6 @@
 # Coding Jam
 
-**Coding Jam** is a collaborative project between [CEO of LunexCorp](https://github.com/LunexCorp) and [JancoNel](https://github.com/JancoNel).
+**Coding Jam** is a collaborative project between [CEO of LunexCorp](https://github.com/LunexCorp)(Christo) and [JancoNel](https://github.com/JancoNel).
 
 We receive a random coding idea or theme (excluding games) and challenge ourselves to code it using one of several programming languages.
 
@@ -36,7 +36,7 @@ Below is a list of all Coding Jam themes.
 
 ## Participants
 
-- [CEO of LunexCorp](https://github.com/LunexCorp)
+- [CEO of LunexCorp](https://github.com/LunexCorp)(Christo)
 - [JancoNel](https://github.com/JancoNel)
 
 ## License
